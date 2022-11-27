@@ -37,9 +37,15 @@ li{
 .fa-li{
   position: unset ;
 }
-span{
+i{
   margin-right: 7px;
 }
 .btn-div{
   text-align: center;
 }
+
+.text-mute{
+  opacity: 0.7;
+}
+
+                
