@@ -73,7 +73,7 @@ function App() {
           condition: true
         },
         {
-          title: " Free Subdomain",
+          title: "Free Subdomain",
           condition: true
         },
         {

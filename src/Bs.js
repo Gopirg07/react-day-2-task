@@ -7,7 +7,7 @@
         <div className="card-body">
           <h5 className='card-title type'>{datas.plan}</h5>
           <h3 className='card-text price'>
-          {datas.price} <span className='month'>/month</span>
+          ${datas.price}<span className='month'>/month</span>
           </h3>
           <hr /> 
 
